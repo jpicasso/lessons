@@ -1,0 +1,11 @@
+p em {
+    color:lightblue;
+}
+
+blockquote {
+    color:red;
+}
+
+blockquote p em {
+    color:lightgreen;
+}
